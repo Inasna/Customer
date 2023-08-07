@@ -128,4 +128,8 @@ class Controller extends BaseController
     {
         'abcd';
     }
+    public function abd()
+    {
+        'abcd';
+    }
 }
