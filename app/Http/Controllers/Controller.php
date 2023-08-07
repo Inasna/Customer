@@ -123,4 +123,9 @@ class Controller extends BaseController
     //         return view('split', compact('outputs'));
     //     }
     // }
+
+    public function abcd()
+    {
+        'abcd';
+    }
 }
