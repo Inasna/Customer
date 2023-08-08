@@ -124,8 +124,8 @@ class Controller extends BaseController
     //     }
     // }
 
-    public function abcd()
+    public function relation()
     {
-        'abcd';
+        'thgthgfb fngfeere ';
     }
 }
